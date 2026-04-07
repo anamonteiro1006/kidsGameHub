@@ -6,8 +6,6 @@
 
 Este projeto é um hub de entretenimento educativo desenvolvido como trabalho prático para o curso **Técnico de Desenvolvimento de Sistemas do SENAI**. O objetivo é aplicar conceitos de lógica de programação, manipulação do DOM e estilização responsiva através de jogos clássicos.
 
----
-
 ## 🎯 Jogos Inclusos
 
 * **⭕ Jogo da Velha:** O clássico desafio de estratégia para dois jogadores.
@@ -16,26 +14,14 @@ Este projeto é um hub de entretenimento educativo desenvolvido como trabalho pr
 * **🎅 Escolha seu Personagem:** Uma seção interativa para descobrir curiosidades e informações sobre personagens icônicos.
 * **🃏 Jogo da Memória:** Treine sua mente encontrando os pares de cartas no menor tempo possível.
 
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 * **HTML5:** Estruturação semântica de todas as telas de jogos.
 * **CSS3:** Estilização visual, animações de transição e design responsivo.
 * **JavaScript (Vanilla):** Toda a lógica dos jogos, controle de pontuação e interatividade.
 
----
-
 ## 🚀 Como Executar
 
 1.  Clone este repositório ou baixe os arquivos.
 2.  Abra o arquivo principal `index.html` em qualquer navegador moderno.
 3.  Divirta-se!
-
----
-
-## 👤 Autor
-Desenvolvido por **[Seu Nome]** como parte da formação técnica no SENAI.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)

@@ -20,8 +20,5 @@ Este projeto é um hub de entretenimento educativo desenvolvido como trabalho pr
 * **CSS3:** Estilização visual, animações de transição e design responsivo.
 * **JavaScript (Vanilla):** Toda a lógica dos jogos, controle de pontuação e interatividade.
 
-## 🚀 Como Executar
-
-1.  Clone este repositório ou baixe os arquivos.
-2.  Abra o arquivo principal `index.html` em qualquer navegador moderno.
-3.  Divirta-se!
+## Visite o site
+Link: https://anamonteiro1006.github.io/kidsGameHub/

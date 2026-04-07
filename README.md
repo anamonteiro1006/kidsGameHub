@@ -1,3 +1,9 @@
+# 🕹️ Kids Games Hub
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 Este projeto é um hub de entretenimento educativo desenvolvido como trabalho prático para o curso **Técnico de Desenvolvimento de Sistemas do SENAI**. O objetivo é aplicar conceitos de lógica de programação, manipulação do DOM e estilização responsiva através de jogos clássicos.
 
 
